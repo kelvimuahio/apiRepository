@@ -1,0 +1,10 @@
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\Contracts.deps.json
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\Contracts.dll
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\Contracts.pdb
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\Contracts.xml
+C:\Users\X190473\Documents\APIRepository\src\Domain\Contracts\obj\Debug\netcoreapp3.0\Contracts.csprojAssemblyReference.cache
+C:\Users\X190473\Documents\APIRepository\src\Domain\Contracts\obj\Debug\netcoreapp3.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\X190473\Documents\APIRepository\src\Domain\Contracts\obj\Debug\netcoreapp3.0\Contracts.AssemblyInfo.cs
+C:\Users\X190473\Documents\APIRepository\src\Domain\Contracts\obj\Debug\netcoreapp3.0\Contracts.csproj.CopyComplete
+C:\Users\X190473\Documents\APIRepository\src\Domain\Contracts\obj\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\X190473\Documents\APIRepository\src\Domain\Contracts\obj\Debug\netcoreapp3.0\Contracts.pdb

@@ -1,0 +1,9 @@
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\CommandRS.deps.json
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\CommandRS.dll
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\CommandRS.pdb
+C:\Users\X190473\Documents\APIRepository\bin\netcoreapp3.0\CommandRS.xml
+C:\Users\X190473\Documents\APIRepository\src\Infrastructure\CommandRS\obj\Debug\netcoreapp3.0\CommandRS.csprojAssemblyReference.cache
+C:\Users\X190473\Documents\APIRepository\src\Infrastructure\CommandRS\obj\Debug\netcoreapp3.0\CommandRS.AssemblyInfoInputs.cache
+C:\Users\X190473\Documents\APIRepository\src\Infrastructure\CommandRS\obj\Debug\netcoreapp3.0\CommandRS.AssemblyInfo.cs
+C:\Users\X190473\Documents\APIRepository\src\Infrastructure\CommandRS\obj\Debug\netcoreapp3.0\CommandRS.dll
+C:\Users\X190473\Documents\APIRepository\src\Infrastructure\CommandRS\obj\Debug\netcoreapp3.0\CommandRS.pdb
